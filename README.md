@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Engineer in a trading company "Company RBT" LLC</h3>
-<h3 align="center">RusyaevAleksandr GitHub stats<a href="[https://daniilshat.ru/](https://github-readme-stats.vercel.app/api?username=RusyaevAleksandr)"></a> 
-(https://github-readme-stats.vercel.app/api?username=RusyaevAleksandr)](https://github.com/RusyaevAleksandr/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RusyaevAleksandr/RusyaevAleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
