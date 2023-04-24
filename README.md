@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Engineer in a trading company "Company RBT" LLC</h3>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusyaevAleksandr&layout=compact)](https://github.com/RusyaevAleksandr/github-readme-stats)
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusyaevAleksandr)](https://github.com/RusyaevAleksandr/github-readme-stats)
 
 [![RusyaevAleksandr GitHub stats](https://github-readme-stats.vercel.app/api?username=RusyaevAleksandr)](https://github.com/RusyaevAleksandr/github-readme-stats)
 
