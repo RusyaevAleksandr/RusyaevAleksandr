@@ -4,7 +4,7 @@
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusyaevAleksandr&layout=compact)](https://github.com/RusyaevAleksandr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusyaevAleksandr&layout=compact&show_icons=true&theme=radical)](https://github.com/RusyaevAleksandr/github-readme-stats)
 
 [![RusyaevAleksandr GitHub stats](https://github-readme-stats.vercel.app/api?username=RusyaevAleksandr&show_icons=true&theme=dark)](https://github.com/RusyaevAleksandr/github-readme-stats)
 
